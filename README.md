@@ -22,7 +22,7 @@ R: Removed population
 Π: Birth rate
 
 ## Computational Physics Connection
-This project showcases several advanced computational physics techniques:
+This project showcases several computational physics techniques:
 # 1. Spatial Discretization & Cellular Automata
 
 Transformed the original ODE system into a 2D spatial grid-based cellular automaton
